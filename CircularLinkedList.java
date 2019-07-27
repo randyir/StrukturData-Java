@@ -1,4 +1,3 @@
-/* RANDY IKHSAN RAMADHAN - 18360021 - Struktur Data */
 package circularlinkedlist;
 public class CircularLinkedList{
     static class Node{
