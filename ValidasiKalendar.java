@@ -1,4 +1,3 @@
-/* RANDY IKHSAN RAMADHAN - 18360021 - Struktur Data */
 package validasikalendar;
 import java.util.Scanner;
 public class ValidasiKalendar {
