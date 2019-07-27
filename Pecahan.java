@@ -1,5 +1,4 @@
 package pecahan;
-
 public class Pecahan {
   int bulat,pembilang,penyebut;
   
